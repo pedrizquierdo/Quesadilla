@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quesadilla</string>
+    <string name="first_number">Primer número</string>
+    <string name="second_number">Segundo número</string>
+    <string name="text_ok">Aceptar</string>
+    <string name="enter_numbers_msg">Por favor ingrese ambos números</string>
+    <string name="sum_total">El total es:</string>
+</resources>

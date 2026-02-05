@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quesadilla</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string name="text_ok">OK</string>
+    <string name="enter_numbers_msg">Please enter both numbers.</string>
+    <string name="sum_total">"The total is: "</string>
+    <string name="text_sum" translatable="false">+</string>
+    <string name="text_subs" translatable="false">-</string>
+    <string name="text_mult" translatable="false">x</string>
+    <string name="text_div" translatable="false">/</string>
+</resources>
